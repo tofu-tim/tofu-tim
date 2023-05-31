@@ -1,7 +1,7 @@
 # Welcome to my Profile!
 
 ## About Me
-I'm a passionate individual interested in the intersection of computer science and green energy. My goal is to leverage my skills in data analysis to contribute to the development of sustainable solutions. I have a background in SQL and have started learning Python and JavaScript to enhance my abilities.
+Skateboarder and nature-lover interested in the intersection of computer science and green energy. My goal is to leverage my skills in data analysis to contribute to the development of sustainable solutions. I have a background in SQL and have started learning Python and JavaScript to enhance my abilities.
 
 ## Skills
 - SQL: Proficient in writing queries, database management, and data manipulation.
