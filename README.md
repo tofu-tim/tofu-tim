@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">Student | Skateboarder | Environmentalist</h3>
 
-<!--
-**tofu-tim/tofu-tim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python, JavaScript, CSS**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **my journey into computer science!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **tm.wilger@gmail.com**
+
+<h2 align="left">Connect with me:</h2>
+    <h4> cell: 269.903.5469 </h4>
+    <h4> email: tm.wilger@gmail.com </h4>
+    <h4> LinkedIn: <a href="https://www.linkedin.com/in/timothy-wilger-00217816b/">Tim Wilger</a> </h4>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
